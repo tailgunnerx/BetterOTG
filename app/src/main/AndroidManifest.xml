@@ -10,8 +10,6 @@
 
     <!-- Required by Android 10+ (API 29+) to grant USB permission to UVC video class devices -->
     <uses-permission android:name="android.permission.CAMERA" />
-    <!-- Optional: only requested when user enables microphone audio for video recording -->
-    <uses-permission android:name="android.permission.RECORD_AUDIO" />
     <!-- Scoped storage fallback for API 24-28 only -->
     <uses-permission
         android:name="android.permission.WRITE_EXTERNAL_STORAGE"

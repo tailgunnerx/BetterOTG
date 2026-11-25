@@ -1,7 +1,6 @@
-BetterOTG v1.0 — Initial Release:
-- 100% FOSS, offline USB OTG microscope, endoscope & UVC inspection camera viewer
-- Source-built libusb + libuvc native engine with MJPEG & YUYV support
-- Resolution/FPS switcher, 1x–8x pinch zoom, rotation, H/V mirror, Fit/Fill & immersive fullscreen
-- Measurement reticle (mm / inch), dual-screen comparison & live UVC hardware controls
-- JPEG snapshots, H.264 MP4 recording, date/time watermark, PiP floating window & built-in Gallery
-- Keep Screen On, physical USB shutter button support, Settings About & separate Changelog window
+BetterOTG v1.0 - Initial Release:
+- 100% FOSS, offline USB OTG microscope, endoscope & UVC camera viewer
+- Source-built libusb + libuvc native UVC engine (MJPEG & YUYV)
+- Resolution/FPS switcher, 1x-8x pinch zoom, rotate, H/V mirror, Fit/Fill & immersive fullscreen
+- mm/inch measurement reticle, dual-screen freeze comparison & hardware UVC sliders
+- JPEG snapshots, H.264 MP4 recording, date watermark, PiP & built-in Gallery
