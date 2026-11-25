@@ -18,9 +18,11 @@ Builds:
     subdir: app
     gradle:
       - yes
-    ndk: 27.0.12077973
+    prebuild:
+      - sdkmanager 'cmake;3.22.1'
+    ndk: r27
 
-AutoUpdateMode: Version
+AutoUpdateMode: Version v%v
 UpdateCheckMode: Tags
 CurrentVersion: '1.0'
 CurrentVersionCode: 1
