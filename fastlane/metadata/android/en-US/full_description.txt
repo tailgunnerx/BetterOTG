@@ -1,0 +1,14 @@
+BetterOTG is a clean, ad-free, 100% offline open-source Android viewer for USB OTG (On-The-Go) digital microscopes, snake/endoscope inspection cameras, and standard UVC webcams.
+
+Features:
+- Live USB OTG (UVC) streaming with MJPEG and YUYV support built from source using libusb and libuvc
+- Dynamic resolution & FPS switcher
+- Pinch-to-zoom (up to 8x), pan, 90-degree rotation, horizontal/vertical mirror, and full-screen mode
+- Measurement reticle scale overlay (mm / inch / off) for microscope and inspection work
+- Dual-screen split comparison (freeze a reference frame alongside the live feed)
+- Hardware UVC controls (Brightness, Contrast, Saturation, Sharpness, Gamma, Gain, Backlight, Hue, Focus & Auto Focus)
+- Snapshot (JPEG) and hardware-accelerated MP4 video recording with optional date/time watermark
+- Physical USB camera shutter button support
+- Picture-in-Picture floating window mode
+- Built-in Gallery with multi-select, delete, share, and video playback
+- Zero internet permission, zero ads, zero trackers

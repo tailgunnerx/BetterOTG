@@ -1,0 +1,26 @@
+Categories:
+  - Multimedia
+  - Science & Education
+License: GPL-3.0-or-later
+AuthorName: tailgunnerx
+SourceCode: https://github.com/tailgunnerx/BetterOTG
+IssueTracker: https://github.com/tailgunnerx/BetterOTG/issues
+
+AutoName: BetterOTG
+
+RepoType: git
+Repo: https://github.com/tailgunnerx/BetterOTG.git
+
+Builds:
+  - versionName: '1.0'
+    versionCode: 1
+    commit: v1.0
+    subdir: app
+    gradle:
+      - yes
+    ndk: 27.0.12077973
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: '1.0'
+CurrentVersionCode: 1

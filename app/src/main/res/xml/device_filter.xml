@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Standard UVC / composite video & microscope classes -->
+    <usb-device class="239" subclass="2" />
+    <usb-device class="14" />
+    <usb-device class="6" />
+    <usb-device class="2" subclass="0" />
+    <usb-device class="39" subclass="0" />
+
+    <!-- Explicit VID/PID compatibility entries for OTG snake cameras & microscopes -->
+    <usb-device vendor-id="9573" product-id="4836" />
+    <usb-device vendor-id="1133" product-id="2229" />
+    <usb-device vendor-id="1409" product-id="640" />
+    <usb-device vendor-id="9228" product-id="258" />
+    <usb-device vendor-id="7025" product-id="12290" />
+    <usb-device vendor-id="1505" product-id="408" />
+    <usb-device vendor-id="60186" product-id="2861" />
+    <usb-device vendor-id="7304" product-id="7" />
+    <usb-device vendor-id="7304" product-id="60" />
+</resources>
